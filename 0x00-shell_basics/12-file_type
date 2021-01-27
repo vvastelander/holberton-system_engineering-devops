@@ -1,3 +1,4 @@
 #!/bin/bash
-file 12-file_type/tmp/iamafile
+file iamafile
+
 
